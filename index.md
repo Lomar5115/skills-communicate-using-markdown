@@ -9,3 +9,18 @@
 ![Image of 3mmak](https://static.tnn.in/thumb/msid-102711379,thumbsize-1497558,width-1280,height-720,resizemode-75/102711379.jpg)
 
 
+##### So, See this
+
+``` javascript
+  while (working)
+  {
+     coffee.drink();
+     work.execute();
+     if (coffee.isEmpty)
+     {
+        if (coffeepot.isEmpty)
+           coffeepot.brew();
+        coffee.refill(); 
+     }
+  }
+```
